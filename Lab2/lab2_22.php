@@ -1,9 +1,3 @@
-<html>
-<head>
-    <title>Lab #2</title>
-</head>
-<body>
-
 <?php
 $product1 = "Product 1 Name";
 $product2 = "Product 2 Name";
@@ -46,6 +40,3 @@ if($price3 > $maxPrice) {
 echo $maxProduct. ":". $maxPrice;
 
 ?>
-
-</body>
-</html>

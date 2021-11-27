@@ -1,9 +1,3 @@
-<html>
-<head>
-    <title>Lab #2</title>
-</head>
-<body>
-
 <?php
 $product1 = "Product 1 Name";
 $product2 = "Product 2 Name";
@@ -18,7 +12,3 @@ echo "<p>$product1 : $price1</p>" .
 "<p>$product3 : $price3</p>"  .
 "<p>Average price: $av"
 ?>
-
-
-</body>
-</html>
