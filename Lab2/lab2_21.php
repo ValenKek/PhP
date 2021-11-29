@@ -12,5 +12,5 @@ echo"<table border='1'>".
     "<tr><td>$product3</td><td>$price3</td></tr>".
     "</table>".
 "Average price:".
-"$av"
-?>
+"$av";
+

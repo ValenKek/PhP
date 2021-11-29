@@ -10,5 +10,5 @@ $av=($price1+$price2+$price3)/3;
 echo "<p>$product1 : $price1</p>" .
 "<p>$product2 : $price2</p>" .
 "<p>$product3 : $price3</p>"  .
-"<p>Average price: $av"
-?>
+"<p>Average price: $av";
+
