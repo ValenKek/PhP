@@ -6,7 +6,8 @@
 if(isset($_POST['logInButton'])){
     logIn($_POST['password']);
 }
-function logIn($pass){
+function logIn($pass)
+{
     static $user_pass = "pass";
     if(strcasecmp($user_pass, $pass) == 0){
         echo '<script> alert("Log in")</script>';
